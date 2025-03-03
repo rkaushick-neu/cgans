@@ -10,6 +10,9 @@ Downloaded automatically via Torchvision
 ### Exploratory Data Analysis
 ![Training images](./images/training_images.png)
 
+#### Data Distribution
+![Bar plot of the output data distribution](./images/output_class_distribution.png)
+
 ## Installation
 To run this project, I used Python 3.10.10 and PyTorch. Install dependencies using:
 ```bash
